@@ -1,6 +1,6 @@
-# lottery-with-vux
+# lottery-with-vue
 
-> A Vue.js project
+> 一个基于vue+vuex+vux的抽奖程序
 
 ## Build Setup
 
