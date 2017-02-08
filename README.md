@@ -2,6 +2,10 @@
 
 > 一个基于vue+vuex+vux的抽奖程序
 
+## 截图
+
+![lottery](https://cloud.githubusercontent.com/assets/10026094/22734455/b70e39d6-ee30-11e6-918d-2468a7dd731d.png)
+
 ## Build Setup
 
 ``` bash
